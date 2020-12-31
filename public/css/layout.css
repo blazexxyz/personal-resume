@@ -208,7 +208,7 @@ ul#nav li.current a { color: #ffffff; }
 #about .profile-pic {
    position: relative;
    width: 200px;
-   height: 200px;
+   height: 190px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -302,6 +302,7 @@ ul#nav li.current a { color: #ffffff; }
   	height: 42px;
   	border-radius: 3px;
 }
+
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
@@ -318,7 +319,7 @@ ul#nav li.current a { color: #ffffff; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #098af3;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
