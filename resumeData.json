@@ -2,9 +2,9 @@
   "main": {
     "name":"Ravivarma Ramadas",
     "occupation":"Python Developer",
-    "description":"I am 3.5 years of Experience in IT Industry. I have experience of 5 years of Experience of Python, where I started Python projects from college.",
+    "description":"I am 3.5 years of Experience in IT Industry and having experience of 5 years in Python from college days.",
     "image":"profilepic.jpg",
-    "bio":"I am Technology Enthusiast, where I started from Python and started my IT career as Trainee and RPA Developer(UiPath Certificated Developer). Setting RPA as the base of Machine Learning module by importing Python module by using IBM Watson Assitent. I have also experience on Python Frameworks like Django and Flask.",
+    "bio":"Being A Technology Enthusiast, I started my career in IT Industry as Software Trainee. Experienced in RPA Developer(UiPath Certificated Developer) where I setting RPA as the base layer of Machine Learning module by importing Python module using IBM Watson Assitent. I have also experienced on Python Frameworks like Django and Flask & its libraries.",
     "contactmessage":"Hi, Get in Touch with me to know more.",
     "email": "ravivarmaramadas@gmail.com",
     "phone": "+91-9629-300652",
@@ -14,7 +14,7 @@
       "state":"Tamilnadu",
       "zip": "620021"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.birdblaze.xyz",
     "resumedownload":"https://drive.google.com/file/d/16NF7fwVBLwj2mddDoLMGIglKyyfr3B54/view?usp=sharing",
     "social":[
       {
@@ -34,25 +34,25 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/blazexxyz",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Hey, Here is my list of Technology Stack",
     "education":[
       {
         "school":"TRP Engineering College (SRM Group)",
         "degree":"Bacholer of Engineering",
         "graduated":"May 2017",
-        "description":"My Major Studies was Electronics and Communication Engineering."
+        "description":"My Major Studies was Electronics and Communication Engineering graduate with percentage of 65%."
       },
       {
         "school":"Campion Higher Secondary School",
         "degree":"Tamil Nadu HSC",
         "graduated":"March 2013",
-        "description":"Being a part of NSS Volunteer during School days and also been a part of Cultural Organizer in Intra School Cultures - 2012"
+        "description":"Passed out with percentage of 74%, Also being a part of NSS Volunteer during School days and also been a part of Cultural Organizer in Intra School Cultures - 2012"
       }
     ],
     "work":[
@@ -60,7 +60,7 @@
         "company":"Object Frontier Software India Pvt Ltd",
         "title":"Software Engineer",
         "years":"July 2017 - Present",
-        "description":"Worked on DevOps Tools and Experienced on Cloud Services, Automation Testing, RPA technologies. Also worked on Boardcasting, Banking Sectors."
+        "description":"Worked on Python Frameworks (django, Flask), DevOps, Cloud Services, Automation Testing, RPA technologies. Also Experienced on Boardcasting, Banking Sectors."
       }
     ],
     "skills":[
