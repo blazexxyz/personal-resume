@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Slide, { Flip } from 'react-reveal';
 
 class Header extends Component {
   render() {
@@ -20,26 +21,32 @@ class Header extends Component {
 
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
-
-         <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">About</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
-         </ul>
-
+         <Slide top cascade>
+            <ul id="nav" className="nav">
+               <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
+               <li><a className="smoothscroll" href="#about">About</a></li>
+               <li><a className="smoothscroll" href="#resume">Resume</a></li>
+               <li><a className="smoothscroll" href="#portfolio">Works</a></li>
+               <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
+               <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            </ul>
+         </Slide>
       </nav>
 
       <div className="row banner">
             <div className="banner-text">
-               <h1 className="responsive-headline">I'm {name}.</h1>
-               <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+               <Slide left>
+                  <h1 className="responsive-headline">I'm {name}.</h1>
+               </Slide>
+               <Slide right>
+                  <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+               </Slide>
                <hr />
-               <ul className="social">
-                  {networks}
-               </ul>
+               <Flip bottom>
+                  <ul className="social">
+                     {networks}
+                  </ul>
+               </Flip>
             </div>
       </div>
 
