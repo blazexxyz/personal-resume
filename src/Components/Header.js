@@ -28,9 +28,9 @@ class Header extends Component {
                <li><a className="smoothscroll" href="#about">About</a></li>
                <li><a className="smoothscroll" href="#resume">Resume</a></li>
                <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-               <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
+               <li><a className="smoothscroll" href="#testimonials">Recommendations</a></li>
                <li><a className="smoothscroll" href="#contact">Contact</a></li>
-               <li><div className="columns download">
+               <li className="resumedownload"><div>
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
@@ -45,7 +45,7 @@ class Header extends Component {
                   <h1 className="responsive-headline">I'm {name}.</h1>
                </Slide>
                <Slide right>
-                  <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+                  <h3>I'm {city} based <span>{occupation}</span>. {description}.</h3>
                </Slide>
                <hr />
                <Flip bottom>
