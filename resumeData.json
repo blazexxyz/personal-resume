@@ -2,9 +2,9 @@
   "main": {
     "name":"Ravivarma Ramadas",
     "occupation":"Python Developer",
-    "description":"I am 3.5 years of Experience in IT Industry and having experience of 5 years in Python from college days.",
+    "description":"Having 3.5 years of Experience in IT Industry and experience of 5 years in Python.",
     "image":"profilepic.jpg",
-    "bio":"Being A Technology Enthusiast, I started my career in IT Industry as Software Trainee. Experienced in RPA Developer(UiPath Certificated Developer) where I setting RPA as the base layer of Machine Learning module by importing Python module using IBM Watson Assitants. I have also experienced on Python Frameworks like Django and Flask & its libraries.",
+    "bio":"Being A Technology Enthusiast, I started my career in IT Industry as Software Trainee. Experienced in RPA Developer(UiPath Certificated Developer) where setting RPA as the base layer of Machine Learning module by importing Python module(IBM Watson Assitent) in RPA. I also have experienced on Python Frameworks like Django and Flask & its libraries.",
     "contactmessage":"Hi, Get in Touch with me to know more.",
     "email": "ravivarmaramadas@gmail.com",
     "phone": "+91-9629-300652",
@@ -52,7 +52,7 @@
         "school":"Campion Higher Secondary School",
         "degree":"Tamil Nadu HSC",
         "graduated":"March 2013",
-        "description":"Passed out with percentage of 74%, Also being a part of NSS Volunteer during School days and also been a part of Cultural Organizer in Intra School Cultures - 2012"
+        "description":"Passed out with percentage of 74%, Also been a part of NSS Volunteer during School days and a part of Cultural Organizer in Intra School Cultures - 2012"
       }
     ],
     "work":[
@@ -95,6 +95,10 @@
       {
         "name":"SQL",
         "level":"80%"
+      },
+      {
+        "name":"AWS & GCP",
+        "level":"60%"
       }
     ]
   },
@@ -103,13 +107,13 @@
       {
         "title":"Cluster Implementation of Mesh Network using B.A.T.M.A.N Protocol",
         "category":"Mesh Network",
-        "image":"canadian-wanderlust.jpg",
+        "image":"meshnetwork.png",
         "url":""
       },
       {
         "title":"E-Attendence System for College",
         "category":"Website I built for Digital Attendence System for College",
-        "image":"original-thai-food.jpg",
+        "image":"eattendence.jpg",
         "url":""
       }
     ]
