@@ -2,7 +2,7 @@
   "main": {
     "name":"Ravivarma Ramadas",
     "occupation":"Python Developer",
-    "description":"Having 3.5 years of Experience in IT Industry and experience of 5 years in Python.",
+    "description":"Having 4.1 years of Experience in IT Industry and experience of 5+ years in Python.",
     "image":"profilepic.jpg",
     "bio":"Being A Technology Enthusiast, I started my career in IT Industry as Software Trainee. Experienced in RPA Developer(UiPath Certificated Developer) where setting RPA as the base layer of Machine Learning module by importing Python module(IBM Watson Assitent) in RPA. I also have experienced on Python Frameworks like Django and Flask & its libraries.",
     "contactmessage":"Hi, Get in Touch with me to know more.",
@@ -57,7 +57,7 @@
     ],
     "work":[
       {
-        "company":"Object Frontier Software India Pvt Ltd",
+        "company":"Object Frontier India Pvt Ltd",
         "title":"Software Engineer",
         "years":"July 2017 - Present",
         "description":"Worked on Python Frameworks (django, Flask), DevOps, Cloud Services, Automation Testing, RPA technologies. Also Experienced on Boardcasting, Banking Sectors."
@@ -67,6 +67,14 @@
       {
         "name":"Python",
         "level":"95%"
+      },
+      {
+        "name":"GCP",
+        "level":"95%"
+      },
+      {
+        "name":"Data Analytics",
+        "level":"65%"
       },
       {
         "name":"Java",
@@ -97,7 +105,7 @@
         "level":"80%"
       },
       {
-        "name":"AWS & GCP",
+        "name":"AWS",
         "level":"60%"
       }
     ]
